@@ -11,3 +11,9 @@ Pillow
 faiss-cpu
 pandas
 ipywidgets
+rdflib
+spacy
+pyvis
+datasets
+transformers
+accelerate
