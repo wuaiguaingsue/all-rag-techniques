@@ -7,6 +7,7 @@ This repository takes a clear, hands-on approach to **Retrieval-Augmented Genera
 The goal is simple: provide code that is readable, modifiable, and educational. By focusing on the fundamentals, this project helps demystify RAG and makes it easier to understand how it really works.
 
 ## Update: 📢
+- (12-May-2025) Added a new notebook on how to handle big data using Knowledge Graphs.
 - (27-April-2025) Added a new notebook which finds best RAG technique for a given query (Simple RAG + Reranker + Query Rewrite).
 - (20-Mar-2025) Added a new notebook on RAG with Reinforcement Learning.
 - (07-Mar-2025) Added 20 RAG techniques to the repository.
@@ -47,6 +48,7 @@ Here's a glimpse of the techniques covered:
 | [20. CRAG](20_crag.ipynb)                     | Corrective RAG: Dynamically evaluates retrieval quality and uses web search as a fallback.                                                                           |
 | [21. Rag with RL](21_rag_with_rl.ipynb)                     | Maximize the reward of the RAG model using Reinforcement Learning.                                                                           |
 | [Best RAG Finder](best_rag_finder.ipynb)     | Finds the best RAG technique for a given query using Simple RAG + Reranker + Query Rewrite.                                                                        |
+| [22. Big Data with Knowledge Graphs](22_big_data_with_KG.ipynb) | Handles large datasets using Knowledge Graphs.                                                                                                                     |
 
 ## 🗂️ Repository Structure
 
@@ -74,6 +76,7 @@ fareedkhan-dev-all-rag-techniques/
 ├── 19_HyDE_rag.ipynb
 ├── 20_crag.ipynb
 ├── 21_rag_with_rl.ipynb
+├── 22_big_data_with_KG.ipynb
 ├── best_rag_finder.ipynb
 ├── requirements.txt                   <- Python dependencies
 └── data/
