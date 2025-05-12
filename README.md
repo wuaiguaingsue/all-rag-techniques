@@ -48,7 +48,7 @@ Here's a glimpse of the techniques covered:
 | [20. CRAG](20_crag.ipynb)                     | Corrective RAG: Dynamically evaluates retrieval quality and uses web search as a fallback.                                                                           |
 | [21. Rag with RL](21_rag_with_rl.ipynb)                     | Maximize the reward of the RAG model using Reinforcement Learning.                                                                           |
 | [Best RAG Finder](best_rag_finder.ipynb)     | Finds the best RAG technique for a given query using Simple RAG + Reranker + Query Rewrite.                                                                        |
-| [22. Big Data with Knowledge Graphs](22_big_data_with_KG.ipynb) | Handles large datasets using Knowledge Graphs.                                                                                                                     |
+| [22. Big Data with Knowledge Graphs](22_Big_data_with_KG.ipynb) | Handles large datasets using Knowledge Graphs.                                                                                                                     |
 
 ## 🗂️ Repository Structure
 
