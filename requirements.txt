@@ -17,3 +17,4 @@ pyvis
 datasets
 transformers
 accelerate
+python-dotenv
